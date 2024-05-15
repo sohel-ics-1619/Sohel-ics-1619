@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=52A7F7&random=false&width=435&lines=Hi%2C+I'm+Mehedi+Hasan;Welcome+to+my+profile)](https://git.io/typing-svg)
 <!--
 **sohel-ics-1619/Sohel-ics-1619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
